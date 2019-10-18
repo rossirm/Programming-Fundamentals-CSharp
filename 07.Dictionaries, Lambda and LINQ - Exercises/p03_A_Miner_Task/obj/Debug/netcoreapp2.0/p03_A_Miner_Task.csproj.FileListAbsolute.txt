@@ -1,0 +1,11 @@
+C:\Users\rosi_\Desktop\SoftUni_Tech_2018\Dictionaries, Lambda and LINQ - Exercises\p03_A_Miner_Task\bin\Debug\netcoreapp2.0\p03_A_Miner_Task.deps.json
+C:\Users\rosi_\Desktop\SoftUni_Tech_2018\Dictionaries, Lambda and LINQ - Exercises\p03_A_Miner_Task\bin\Debug\netcoreapp2.0\p03_A_Miner_Task.runtimeconfig.json
+C:\Users\rosi_\Desktop\SoftUni_Tech_2018\Dictionaries, Lambda and LINQ - Exercises\p03_A_Miner_Task\bin\Debug\netcoreapp2.0\p03_A_Miner_Task.runtimeconfig.dev.json
+C:\Users\rosi_\Desktop\SoftUni_Tech_2018\Dictionaries, Lambda and LINQ - Exercises\p03_A_Miner_Task\bin\Debug\netcoreapp2.0\p03_A_Miner_Task.dll
+C:\Users\rosi_\Desktop\SoftUni_Tech_2018\Dictionaries, Lambda and LINQ - Exercises\p03_A_Miner_Task\bin\Debug\netcoreapp2.0\p03_A_Miner_Task.pdb
+C:\Users\rosi_\Desktop\SoftUni_Tech_2018\Dictionaries, Lambda and LINQ - Exercises\p03_A_Miner_Task\obj\Debug\netcoreapp2.0\p03_A_Miner_Task.csprojResolveAssemblyReference.cache
+C:\Users\rosi_\Desktop\SoftUni_Tech_2018\Dictionaries, Lambda and LINQ - Exercises\p03_A_Miner_Task\obj\Debug\netcoreapp2.0\p03_A_Miner_Task.csproj.CoreCompileInputs.cache
+C:\Users\rosi_\Desktop\SoftUni_Tech_2018\Dictionaries, Lambda and LINQ - Exercises\p03_A_Miner_Task\obj\Debug\netcoreapp2.0\p03_A_Miner_Task.AssemblyInfoInputs.cache
+C:\Users\rosi_\Desktop\SoftUni_Tech_2018\Dictionaries, Lambda and LINQ - Exercises\p03_A_Miner_Task\obj\Debug\netcoreapp2.0\p03_A_Miner_Task.AssemblyInfo.cs
+C:\Users\rosi_\Desktop\SoftUni_Tech_2018\Dictionaries, Lambda and LINQ - Exercises\p03_A_Miner_Task\obj\Debug\netcoreapp2.0\p03_A_Miner_Task.dll
+C:\Users\rosi_\Desktop\SoftUni_Tech_2018\Dictionaries, Lambda and LINQ - Exercises\p03_A_Miner_Task\obj\Debug\netcoreapp2.0\p03_A_Miner_Task.pdb

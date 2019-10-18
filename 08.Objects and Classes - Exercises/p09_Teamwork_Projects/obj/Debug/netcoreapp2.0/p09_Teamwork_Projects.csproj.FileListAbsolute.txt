@@ -1,0 +1,11 @@
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p09_Teamwork_Projects\bin\Debug\netcoreapp2.0\p09_Teamwork_Projects.deps.json
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p09_Teamwork_Projects\bin\Debug\netcoreapp2.0\p09_Teamwork_Projects.runtimeconfig.json
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p09_Teamwork_Projects\bin\Debug\netcoreapp2.0\p09_Teamwork_Projects.runtimeconfig.dev.json
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p09_Teamwork_Projects\bin\Debug\netcoreapp2.0\p09_Teamwork_Projects.dll
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p09_Teamwork_Projects\bin\Debug\netcoreapp2.0\p09_Teamwork_Projects.pdb
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p09_Teamwork_Projects\obj\Debug\netcoreapp2.0\p09_Teamwork_Projects.csproj.CoreCompileInputs.cache
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p09_Teamwork_Projects\obj\Debug\netcoreapp2.0\p09_Teamwork_Projects.AssemblyInfoInputs.cache
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p09_Teamwork_Projects\obj\Debug\netcoreapp2.0\p09_Teamwork_Projects.AssemblyInfo.cs
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p09_Teamwork_Projects\obj\Debug\netcoreapp2.0\p09_Teamwork_Projects.dll
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p09_Teamwork_Projects\obj\Debug\netcoreapp2.0\p09_Teamwork_Projects.pdb
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p09_Teamwork_Projects\obj\Debug\netcoreapp2.0\p09_Teamwork_Projects.csprojResolveAssemblyReference.cache

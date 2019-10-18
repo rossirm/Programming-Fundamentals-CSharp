@@ -1,0 +1,11 @@
+C:\Users\rosi_\Desktop\SoftUni_Tech_2018\Dictionaries, Lambda and LINQ - Exercises\p07_Populatio_Counter\bin\Debug\netcoreapp2.0\p07_Population_Counter.deps.json
+C:\Users\rosi_\Desktop\SoftUni_Tech_2018\Dictionaries, Lambda and LINQ - Exercises\p07_Populatio_Counter\bin\Debug\netcoreapp2.0\p07_Population_Counter.runtimeconfig.json
+C:\Users\rosi_\Desktop\SoftUni_Tech_2018\Dictionaries, Lambda and LINQ - Exercises\p07_Populatio_Counter\bin\Debug\netcoreapp2.0\p07_Population_Counter.runtimeconfig.dev.json
+C:\Users\rosi_\Desktop\SoftUni_Tech_2018\Dictionaries, Lambda and LINQ - Exercises\p07_Populatio_Counter\bin\Debug\netcoreapp2.0\p07_Population_Counter.dll
+C:\Users\rosi_\Desktop\SoftUni_Tech_2018\Dictionaries, Lambda and LINQ - Exercises\p07_Populatio_Counter\bin\Debug\netcoreapp2.0\p07_Population_Counter.pdb
+C:\Users\rosi_\Desktop\SoftUni_Tech_2018\Dictionaries, Lambda and LINQ - Exercises\p07_Populatio_Counter\obj\Debug\netcoreapp2.0\p07_Population_Counter.csprojResolveAssemblyReference.cache
+C:\Users\rosi_\Desktop\SoftUni_Tech_2018\Dictionaries, Lambda and LINQ - Exercises\p07_Populatio_Counter\obj\Debug\netcoreapp2.0\p07_Population_Counter.csproj.CoreCompileInputs.cache
+C:\Users\rosi_\Desktop\SoftUni_Tech_2018\Dictionaries, Lambda and LINQ - Exercises\p07_Populatio_Counter\obj\Debug\netcoreapp2.0\p07_Population_Counter.AssemblyInfoInputs.cache
+C:\Users\rosi_\Desktop\SoftUni_Tech_2018\Dictionaries, Lambda and LINQ - Exercises\p07_Populatio_Counter\obj\Debug\netcoreapp2.0\p07_Population_Counter.AssemblyInfo.cs
+C:\Users\rosi_\Desktop\SoftUni_Tech_2018\Dictionaries, Lambda and LINQ - Exercises\p07_Populatio_Counter\obj\Debug\netcoreapp2.0\p07_Population_Counter.dll
+C:\Users\rosi_\Desktop\SoftUni_Tech_2018\Dictionaries, Lambda and LINQ - Exercises\p07_Populatio_Counter\obj\Debug\netcoreapp2.0\p07_Population_Counter.pdb

@@ -1,0 +1,11 @@
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p02_Advertisement_Message\bin\Debug\netcoreapp2.0\p02_Advertisement_Message.deps.json
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p02_Advertisement_Message\bin\Debug\netcoreapp2.0\p02_Advertisement_Message.runtimeconfig.json
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p02_Advertisement_Message\bin\Debug\netcoreapp2.0\p02_Advertisement_Message.runtimeconfig.dev.json
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p02_Advertisement_Message\bin\Debug\netcoreapp2.0\p02_Advertisement_Message.dll
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p02_Advertisement_Message\bin\Debug\netcoreapp2.0\p02_Advertisement_Message.pdb
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p02_Advertisement_Message\obj\Debug\netcoreapp2.0\p02_Advertisement_Message.csprojResolveAssemblyReference.cache
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p02_Advertisement_Message\obj\Debug\netcoreapp2.0\p02_Advertisement_Message.csproj.CoreCompileInputs.cache
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p02_Advertisement_Message\obj\Debug\netcoreapp2.0\p02_Advertisement_Message.AssemblyInfoInputs.cache
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p02_Advertisement_Message\obj\Debug\netcoreapp2.0\p02_Advertisement_Message.AssemblyInfo.cs
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p02_Advertisement_Message\obj\Debug\netcoreapp2.0\p02_Advertisement_Message.dll
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p02_Advertisement_Message\obj\Debug\netcoreapp2.0\p02_Advertisement_Message.pdb

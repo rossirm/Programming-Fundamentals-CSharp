@@ -1,0 +1,11 @@
+C:\Users\rosi_\Desktop\SoftUni_Tech_2018\Dictionaries, Lambda and LINQ - Exercises\p09_LEGENDARY_FARMING\bin\Debug\netcoreapp2.0\p09_LEGENDARY_FARMING.deps.json
+C:\Users\rosi_\Desktop\SoftUni_Tech_2018\Dictionaries, Lambda and LINQ - Exercises\p09_LEGENDARY_FARMING\bin\Debug\netcoreapp2.0\p09_LEGENDARY_FARMING.runtimeconfig.json
+C:\Users\rosi_\Desktop\SoftUni_Tech_2018\Dictionaries, Lambda and LINQ - Exercises\p09_LEGENDARY_FARMING\bin\Debug\netcoreapp2.0\p09_LEGENDARY_FARMING.runtimeconfig.dev.json
+C:\Users\rosi_\Desktop\SoftUni_Tech_2018\Dictionaries, Lambda and LINQ - Exercises\p09_LEGENDARY_FARMING\bin\Debug\netcoreapp2.0\p09_LEGENDARY_FARMING.dll
+C:\Users\rosi_\Desktop\SoftUni_Tech_2018\Dictionaries, Lambda and LINQ - Exercises\p09_LEGENDARY_FARMING\bin\Debug\netcoreapp2.0\p09_LEGENDARY_FARMING.pdb
+C:\Users\rosi_\Desktop\SoftUni_Tech_2018\Dictionaries, Lambda and LINQ - Exercises\p09_LEGENDARY_FARMING\obj\Debug\netcoreapp2.0\p09_LEGENDARY_FARMING.csproj.CoreCompileInputs.cache
+C:\Users\rosi_\Desktop\SoftUni_Tech_2018\Dictionaries, Lambda and LINQ - Exercises\p09_LEGENDARY_FARMING\obj\Debug\netcoreapp2.0\p09_LEGENDARY_FARMING.AssemblyInfoInputs.cache
+C:\Users\rosi_\Desktop\SoftUni_Tech_2018\Dictionaries, Lambda and LINQ - Exercises\p09_LEGENDARY_FARMING\obj\Debug\netcoreapp2.0\p09_LEGENDARY_FARMING.AssemblyInfo.cs
+C:\Users\rosi_\Desktop\SoftUni_Tech_2018\Dictionaries, Lambda and LINQ - Exercises\p09_LEGENDARY_FARMING\obj\Debug\netcoreapp2.0\p09_LEGENDARY_FARMING.dll
+C:\Users\rosi_\Desktop\SoftUni_Tech_2018\Dictionaries, Lambda and LINQ - Exercises\p09_LEGENDARY_FARMING\obj\Debug\netcoreapp2.0\p09_LEGENDARY_FARMING.pdb
+C:\Users\rosi_\Desktop\SoftUni_Tech_2018\Dictionaries, Lambda and LINQ - Exercises\p09_LEGENDARY_FARMING\obj\Debug\netcoreapp2.0\p09_LEGENDARY_FARMING.csprojResolveAssemblyReference.cache

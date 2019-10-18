@@ -1,0 +1,10 @@
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p10_Student_Groups\bin\Debug\netcoreapp2.0\p10_Student_Groups.deps.json
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p10_Student_Groups\bin\Debug\netcoreapp2.0\p10_Student_Groups.runtimeconfig.json
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p10_Student_Groups\bin\Debug\netcoreapp2.0\p10_Student_Groups.runtimeconfig.dev.json
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p10_Student_Groups\bin\Debug\netcoreapp2.0\p10_Student_Groups.dll
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p10_Student_Groups\bin\Debug\netcoreapp2.0\p10_Student_Groups.pdb
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p10_Student_Groups\obj\Debug\netcoreapp2.0\p10_Student_Groups.csproj.CoreCompileInputs.cache
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p10_Student_Groups\obj\Debug\netcoreapp2.0\p10_Student_Groups.AssemblyInfoInputs.cache
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p10_Student_Groups\obj\Debug\netcoreapp2.0\p10_Student_Groups.AssemblyInfo.cs
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p10_Student_Groups\obj\Debug\netcoreapp2.0\p10_Student_Groups.dll
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p10_Student_Groups\obj\Debug\netcoreapp2.0\p10_Student_Groups.pdb

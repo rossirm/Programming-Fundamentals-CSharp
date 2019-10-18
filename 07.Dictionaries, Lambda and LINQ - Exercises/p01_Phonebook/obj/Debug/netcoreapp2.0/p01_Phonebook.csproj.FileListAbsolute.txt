@@ -1,0 +1,11 @@
+C:\Users\rosi_\Desktop\SoftUni_Tech_2018\Dictionaries, Lambda and LINQ - Exercises\p01_Phonebook\bin\Debug\netcoreapp2.0\p01_Phonebook.deps.json
+C:\Users\rosi_\Desktop\SoftUni_Tech_2018\Dictionaries, Lambda and LINQ - Exercises\p01_Phonebook\bin\Debug\netcoreapp2.0\p01_Phonebook.runtimeconfig.json
+C:\Users\rosi_\Desktop\SoftUni_Tech_2018\Dictionaries, Lambda and LINQ - Exercises\p01_Phonebook\bin\Debug\netcoreapp2.0\p01_Phonebook.runtimeconfig.dev.json
+C:\Users\rosi_\Desktop\SoftUni_Tech_2018\Dictionaries, Lambda and LINQ - Exercises\p01_Phonebook\bin\Debug\netcoreapp2.0\p01_Phonebook.dll
+C:\Users\rosi_\Desktop\SoftUni_Tech_2018\Dictionaries, Lambda and LINQ - Exercises\p01_Phonebook\bin\Debug\netcoreapp2.0\p01_Phonebook.pdb
+C:\Users\rosi_\Desktop\SoftUni_Tech_2018\Dictionaries, Lambda and LINQ - Exercises\p01_Phonebook\obj\Debug\netcoreapp2.0\p01_Phonebook.csprojResolveAssemblyReference.cache
+C:\Users\rosi_\Desktop\SoftUni_Tech_2018\Dictionaries, Lambda and LINQ - Exercises\p01_Phonebook\obj\Debug\netcoreapp2.0\p01_Phonebook.csproj.CoreCompileInputs.cache
+C:\Users\rosi_\Desktop\SoftUni_Tech_2018\Dictionaries, Lambda and LINQ - Exercises\p01_Phonebook\obj\Debug\netcoreapp2.0\p01_Phonebook.AssemblyInfoInputs.cache
+C:\Users\rosi_\Desktop\SoftUni_Tech_2018\Dictionaries, Lambda and LINQ - Exercises\p01_Phonebook\obj\Debug\netcoreapp2.0\p01_Phonebook.AssemblyInfo.cs
+C:\Users\rosi_\Desktop\SoftUni_Tech_2018\Dictionaries, Lambda and LINQ - Exercises\p01_Phonebook\obj\Debug\netcoreapp2.0\p01_Phonebook.dll
+C:\Users\rosi_\Desktop\SoftUni_Tech_2018\Dictionaries, Lambda and LINQ - Exercises\p01_Phonebook\obj\Debug\netcoreapp2.0\p01_Phonebook.pdb

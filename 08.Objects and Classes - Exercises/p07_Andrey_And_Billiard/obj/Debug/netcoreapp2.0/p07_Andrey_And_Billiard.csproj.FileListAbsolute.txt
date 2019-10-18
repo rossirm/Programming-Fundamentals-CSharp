@@ -1,0 +1,11 @@
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p07_Andrey_And_Billiard\bin\Debug\netcoreapp2.0\p07_Andrey_And_Billiard.deps.json
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p07_Andrey_And_Billiard\bin\Debug\netcoreapp2.0\p07_Andrey_And_Billiard.runtimeconfig.json
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p07_Andrey_And_Billiard\bin\Debug\netcoreapp2.0\p07_Andrey_And_Billiard.runtimeconfig.dev.json
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p07_Andrey_And_Billiard\bin\Debug\netcoreapp2.0\p07_Andrey_And_Billiard.dll
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p07_Andrey_And_Billiard\bin\Debug\netcoreapp2.0\p07_Andrey_And_Billiard.pdb
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p07_Andrey_And_Billiard\obj\Debug\netcoreapp2.0\p07_Andrey_And_Billiard.csprojResolveAssemblyReference.cache
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p07_Andrey_And_Billiard\obj\Debug\netcoreapp2.0\p07_Andrey_And_Billiard.csproj.CoreCompileInputs.cache
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p07_Andrey_And_Billiard\obj\Debug\netcoreapp2.0\p07_Andrey_And_Billiard.AssemblyInfoInputs.cache
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p07_Andrey_And_Billiard\obj\Debug\netcoreapp2.0\p07_Andrey_And_Billiard.AssemblyInfo.cs
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p07_Andrey_And_Billiard\obj\Debug\netcoreapp2.0\p07_Andrey_And_Billiard.dll
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p07_Andrey_And_Billiard\obj\Debug\netcoreapp2.0\p07_Andrey_And_Billiard.pdb

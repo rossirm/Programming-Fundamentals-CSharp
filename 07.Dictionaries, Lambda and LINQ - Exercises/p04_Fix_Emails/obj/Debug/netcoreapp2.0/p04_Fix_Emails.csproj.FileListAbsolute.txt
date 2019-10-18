@@ -1,0 +1,11 @@
+C:\Users\rosi_\Desktop\SoftUni_Tech_2018\Dictionaries, Lambda and LINQ - Exercises\p04_Fix_Emails\bin\Debug\netcoreapp2.0\p04_Fix_Emails.deps.json
+C:\Users\rosi_\Desktop\SoftUni_Tech_2018\Dictionaries, Lambda and LINQ - Exercises\p04_Fix_Emails\bin\Debug\netcoreapp2.0\p04_Fix_Emails.runtimeconfig.json
+C:\Users\rosi_\Desktop\SoftUni_Tech_2018\Dictionaries, Lambda and LINQ - Exercises\p04_Fix_Emails\bin\Debug\netcoreapp2.0\p04_Fix_Emails.runtimeconfig.dev.json
+C:\Users\rosi_\Desktop\SoftUni_Tech_2018\Dictionaries, Lambda and LINQ - Exercises\p04_Fix_Emails\bin\Debug\netcoreapp2.0\p04_Fix_Emails.dll
+C:\Users\rosi_\Desktop\SoftUni_Tech_2018\Dictionaries, Lambda and LINQ - Exercises\p04_Fix_Emails\bin\Debug\netcoreapp2.0\p04_Fix_Emails.pdb
+C:\Users\rosi_\Desktop\SoftUni_Tech_2018\Dictionaries, Lambda and LINQ - Exercises\p04_Fix_Emails\obj\Debug\netcoreapp2.0\p04_Fix_Emails.csprojResolveAssemblyReference.cache
+C:\Users\rosi_\Desktop\SoftUni_Tech_2018\Dictionaries, Lambda and LINQ - Exercises\p04_Fix_Emails\obj\Debug\netcoreapp2.0\p04_Fix_Emails.csproj.CoreCompileInputs.cache
+C:\Users\rosi_\Desktop\SoftUni_Tech_2018\Dictionaries, Lambda and LINQ - Exercises\p04_Fix_Emails\obj\Debug\netcoreapp2.0\p04_Fix_Emails.AssemblyInfoInputs.cache
+C:\Users\rosi_\Desktop\SoftUni_Tech_2018\Dictionaries, Lambda and LINQ - Exercises\p04_Fix_Emails\obj\Debug\netcoreapp2.0\p04_Fix_Emails.AssemblyInfo.cs
+C:\Users\rosi_\Desktop\SoftUni_Tech_2018\Dictionaries, Lambda and LINQ - Exercises\p04_Fix_Emails\obj\Debug\netcoreapp2.0\p04_Fix_Emails.dll
+C:\Users\rosi_\Desktop\SoftUni_Tech_2018\Dictionaries, Lambda and LINQ - Exercises\p04_Fix_Emails\obj\Debug\netcoreapp2.0\p04_Fix_Emails.pdb

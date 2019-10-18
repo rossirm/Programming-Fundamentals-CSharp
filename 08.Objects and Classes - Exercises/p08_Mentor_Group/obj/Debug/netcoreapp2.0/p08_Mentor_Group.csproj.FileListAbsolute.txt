@@ -1,0 +1,11 @@
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p08_Mentor_Group\bin\Debug\netcoreapp2.0\p08_Mentor_Group.deps.json
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p08_Mentor_Group\bin\Debug\netcoreapp2.0\p08_Mentor_Group.runtimeconfig.json
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p08_Mentor_Group\bin\Debug\netcoreapp2.0\p08_Mentor_Group.runtimeconfig.dev.json
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p08_Mentor_Group\bin\Debug\netcoreapp2.0\p08_Mentor_Group.dll
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p08_Mentor_Group\bin\Debug\netcoreapp2.0\p08_Mentor_Group.pdb
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p08_Mentor_Group\obj\Debug\netcoreapp2.0\p08_Mentor_Group.csproj.CoreCompileInputs.cache
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p08_Mentor_Group\obj\Debug\netcoreapp2.0\p08_Mentor_Group.AssemblyInfoInputs.cache
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p08_Mentor_Group\obj\Debug\netcoreapp2.0\p08_Mentor_Group.AssemblyInfo.cs
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p08_Mentor_Group\obj\Debug\netcoreapp2.0\p08_Mentor_Group.dll
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p08_Mentor_Group\obj\Debug\netcoreapp2.0\p08_Mentor_Group.pdb
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p08_Mentor_Group\obj\Debug\netcoreapp2.0\p08_Mentor_Group.csprojResolveAssemblyReference.cache

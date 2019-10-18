@@ -1,0 +1,11 @@
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p01_Count_Working_Days\bin\Debug\netcoreapp2.0\p01_Count_Working_Days.deps.json
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p01_Count_Working_Days\bin\Debug\netcoreapp2.0\p01_Count_Working_Days.runtimeconfig.json
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p01_Count_Working_Days\bin\Debug\netcoreapp2.0\p01_Count_Working_Days.runtimeconfig.dev.json
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p01_Count_Working_Days\bin\Debug\netcoreapp2.0\p01_Count_Working_Days.dll
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p01_Count_Working_Days\bin\Debug\netcoreapp2.0\p01_Count_Working_Days.pdb
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p01_Count_Working_Days\obj\Debug\netcoreapp2.0\p01_Count_Working_Days.csprojResolveAssemblyReference.cache
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p01_Count_Working_Days\obj\Debug\netcoreapp2.0\p01_Count_Working_Days.csproj.CoreCompileInputs.cache
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p01_Count_Working_Days\obj\Debug\netcoreapp2.0\p01_Count_Working_Days.AssemblyInfoInputs.cache
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p01_Count_Working_Days\obj\Debug\netcoreapp2.0\p01_Count_Working_Days.AssemblyInfo.cs
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p01_Count_Working_Days\obj\Debug\netcoreapp2.0\p01_Count_Working_Days.dll
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p01_Count_Working_Days\obj\Debug\netcoreapp2.0\p01_Count_Working_Days.pdb

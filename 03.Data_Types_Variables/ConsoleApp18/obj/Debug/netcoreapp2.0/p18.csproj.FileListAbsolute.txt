@@ -1,0 +1,10 @@
+C:\Users\rosi_\source\repos\ConsoleApp1\ConsoleApp18\obj\Debug\netcoreapp2.0\p18.csproj.CoreCompileInputs.cache
+C:\Users\rosi_\source\repos\ConsoleApp1\ConsoleApp18\obj\Debug\netcoreapp2.0\p18.AssemblyInfoInputs.cache
+C:\Users\rosi_\source\repos\ConsoleApp1\ConsoleApp18\obj\Debug\netcoreapp2.0\p18.AssemblyInfo.cs
+C:\Users\rosi_\source\repos\ConsoleApp1\ConsoleApp18\bin\Debug\netcoreapp2.0\p18.deps.json
+C:\Users\rosi_\source\repos\ConsoleApp1\ConsoleApp18\bin\Debug\netcoreapp2.0\p18.runtimeconfig.json
+C:\Users\rosi_\source\repos\ConsoleApp1\ConsoleApp18\bin\Debug\netcoreapp2.0\p18.runtimeconfig.dev.json
+C:\Users\rosi_\source\repos\ConsoleApp1\ConsoleApp18\bin\Debug\netcoreapp2.0\p18.dll
+C:\Users\rosi_\source\repos\ConsoleApp1\ConsoleApp18\bin\Debug\netcoreapp2.0\p18.pdb
+C:\Users\rosi_\source\repos\ConsoleApp1\ConsoleApp18\obj\Debug\netcoreapp2.0\p18.dll
+C:\Users\rosi_\source\repos\ConsoleApp1\ConsoleApp18\obj\Debug\netcoreapp2.0\p18.pdb

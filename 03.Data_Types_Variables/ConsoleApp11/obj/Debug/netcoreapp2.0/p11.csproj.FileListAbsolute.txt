@@ -1,0 +1,11 @@
+C:\Users\rosi_\source\repos\ConsoleApp1\ConsoleApp11\bin\Debug\netcoreapp2.0\p11.deps.json
+C:\Users\rosi_\source\repos\ConsoleApp1\ConsoleApp11\bin\Debug\netcoreapp2.0\p11.runtimeconfig.json
+C:\Users\rosi_\source\repos\ConsoleApp1\ConsoleApp11\bin\Debug\netcoreapp2.0\p11.runtimeconfig.dev.json
+C:\Users\rosi_\source\repos\ConsoleApp1\ConsoleApp11\bin\Debug\netcoreapp2.0\p11.dll
+C:\Users\rosi_\source\repos\ConsoleApp1\ConsoleApp11\bin\Debug\netcoreapp2.0\p11.pdb
+C:\Users\rosi_\source\repos\ConsoleApp1\ConsoleApp11\obj\Debug\netcoreapp2.0\p11.csprojResolveAssemblyReference.cache
+C:\Users\rosi_\source\repos\ConsoleApp1\ConsoleApp11\obj\Debug\netcoreapp2.0\p11.csproj.CoreCompileInputs.cache
+C:\Users\rosi_\source\repos\ConsoleApp1\ConsoleApp11\obj\Debug\netcoreapp2.0\p11.AssemblyInfoInputs.cache
+C:\Users\rosi_\source\repos\ConsoleApp1\ConsoleApp11\obj\Debug\netcoreapp2.0\p11.AssemblyInfo.cs
+C:\Users\rosi_\source\repos\ConsoleApp1\ConsoleApp11\obj\Debug\netcoreapp2.0\p11.dll
+C:\Users\rosi_\source\repos\ConsoleApp1\ConsoleApp11\obj\Debug\netcoreapp2.0\p11.pdb

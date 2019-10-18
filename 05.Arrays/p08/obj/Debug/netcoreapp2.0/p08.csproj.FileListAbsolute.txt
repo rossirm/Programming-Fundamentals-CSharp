@@ -1,0 +1,11 @@
+c:\users\rosi_\source\repos\p08\p08\bin\Debug\netcoreapp2.0\p08.deps.json
+c:\users\rosi_\source\repos\p08\p08\bin\Debug\netcoreapp2.0\p08.runtimeconfig.json
+c:\users\rosi_\source\repos\p08\p08\bin\Debug\netcoreapp2.0\p08.runtimeconfig.dev.json
+c:\users\rosi_\source\repos\p08\p08\bin\Debug\netcoreapp2.0\p08.dll
+c:\users\rosi_\source\repos\p08\p08\bin\Debug\netcoreapp2.0\p08.pdb
+c:\users\rosi_\source\repos\p08\p08\obj\Debug\netcoreapp2.0\p08.csprojResolveAssemblyReference.cache
+c:\users\rosi_\source\repos\p08\p08\obj\Debug\netcoreapp2.0\p08.csproj.CoreCompileInputs.cache
+c:\users\rosi_\source\repos\p08\p08\obj\Debug\netcoreapp2.0\p08.AssemblyInfoInputs.cache
+c:\users\rosi_\source\repos\p08\p08\obj\Debug\netcoreapp2.0\p08.AssemblyInfo.cs
+c:\users\rosi_\source\repos\p08\p08\obj\Debug\netcoreapp2.0\p08.dll
+c:\users\rosi_\source\repos\p08\p08\obj\Debug\netcoreapp2.0\p08.pdb

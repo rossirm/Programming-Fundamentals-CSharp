@@ -1,0 +1,11 @@
+C:\Users\rosi_\source\repos\Lists\p06_\bin\Debug\netcoreapp2.0\p06_.deps.json
+C:\Users\rosi_\source\repos\Lists\p06_\bin\Debug\netcoreapp2.0\p06_.runtimeconfig.json
+C:\Users\rosi_\source\repos\Lists\p06_\bin\Debug\netcoreapp2.0\p06_.runtimeconfig.dev.json
+C:\Users\rosi_\source\repos\Lists\p06_\bin\Debug\netcoreapp2.0\p06_.dll
+C:\Users\rosi_\source\repos\Lists\p06_\bin\Debug\netcoreapp2.0\p06_.pdb
+C:\Users\rosi_\source\repos\Lists\p06_\obj\Debug\netcoreapp2.0\p06_.csprojResolveAssemblyReference.cache
+C:\Users\rosi_\source\repos\Lists\p06_\obj\Debug\netcoreapp2.0\p06_.csproj.CoreCompileInputs.cache
+C:\Users\rosi_\source\repos\Lists\p06_\obj\Debug\netcoreapp2.0\p06_.AssemblyInfoInputs.cache
+C:\Users\rosi_\source\repos\Lists\p06_\obj\Debug\netcoreapp2.0\p06_.AssemblyInfo.cs
+C:\Users\rosi_\source\repos\Lists\p06_\obj\Debug\netcoreapp2.0\p06_.dll
+C:\Users\rosi_\source\repos\Lists\p06_\obj\Debug\netcoreapp2.0\p06_.pdb

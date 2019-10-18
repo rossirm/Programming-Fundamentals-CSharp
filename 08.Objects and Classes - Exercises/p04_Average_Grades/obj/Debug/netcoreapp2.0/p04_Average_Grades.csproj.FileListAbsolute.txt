@@ -1,0 +1,11 @@
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p04_Average_Grades\bin\Debug\netcoreapp2.0\p04_Average_Grades.deps.json
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p04_Average_Grades\bin\Debug\netcoreapp2.0\p04_Average_Grades.runtimeconfig.json
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p04_Average_Grades\bin\Debug\netcoreapp2.0\p04_Average_Grades.runtimeconfig.dev.json
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p04_Average_Grades\bin\Debug\netcoreapp2.0\p04_Average_Grades.dll
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p04_Average_Grades\bin\Debug\netcoreapp2.0\p04_Average_Grades.pdb
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p04_Average_Grades\obj\Debug\netcoreapp2.0\p04_Average_Grades.csproj.CoreCompileInputs.cache
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p04_Average_Grades\obj\Debug\netcoreapp2.0\p04_Average_Grades.AssemblyInfoInputs.cache
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p04_Average_Grades\obj\Debug\netcoreapp2.0\p04_Average_Grades.AssemblyInfo.cs
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p04_Average_Grades\obj\Debug\netcoreapp2.0\p04_Average_Grades.dll
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p04_Average_Grades\obj\Debug\netcoreapp2.0\p04_Average_Grades.pdb
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p04_Average_Grades\obj\Debug\netcoreapp2.0\p04_Average_Grades.csprojResolveAssemblyReference.cache

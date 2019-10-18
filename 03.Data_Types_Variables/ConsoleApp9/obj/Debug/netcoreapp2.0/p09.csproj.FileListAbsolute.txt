@@ -1,0 +1,11 @@
+C:\Users\rosi_\source\repos\ConsoleApp1\ConsoleApp9\bin\Debug\netcoreapp2.0\p09.deps.json
+C:\Users\rosi_\source\repos\ConsoleApp1\ConsoleApp9\bin\Debug\netcoreapp2.0\p09.runtimeconfig.json
+C:\Users\rosi_\source\repos\ConsoleApp1\ConsoleApp9\bin\Debug\netcoreapp2.0\p09.runtimeconfig.dev.json
+C:\Users\rosi_\source\repos\ConsoleApp1\ConsoleApp9\bin\Debug\netcoreapp2.0\p09.dll
+C:\Users\rosi_\source\repos\ConsoleApp1\ConsoleApp9\bin\Debug\netcoreapp2.0\p09.pdb
+C:\Users\rosi_\source\repos\ConsoleApp1\ConsoleApp9\obj\Debug\netcoreapp2.0\p09.csprojResolveAssemblyReference.cache
+C:\Users\rosi_\source\repos\ConsoleApp1\ConsoleApp9\obj\Debug\netcoreapp2.0\p09.csproj.CoreCompileInputs.cache
+C:\Users\rosi_\source\repos\ConsoleApp1\ConsoleApp9\obj\Debug\netcoreapp2.0\p09.AssemblyInfoInputs.cache
+C:\Users\rosi_\source\repos\ConsoleApp1\ConsoleApp9\obj\Debug\netcoreapp2.0\p09.AssemblyInfo.cs
+C:\Users\rosi_\source\repos\ConsoleApp1\ConsoleApp9\obj\Debug\netcoreapp2.0\p09.dll
+C:\Users\rosi_\source\repos\ConsoleApp1\ConsoleApp9\obj\Debug\netcoreapp2.0\p09.pdb

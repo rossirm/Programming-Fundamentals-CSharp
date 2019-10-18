@@ -1,0 +1,11 @@
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p05_Book_Library\bin\Debug\netcoreapp2.0\p05_Book_Library.deps.json
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p05_Book_Library\bin\Debug\netcoreapp2.0\p05_Book_Library.runtimeconfig.json
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p05_Book_Library\bin\Debug\netcoreapp2.0\p05_Book_Library.runtimeconfig.dev.json
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p05_Book_Library\bin\Debug\netcoreapp2.0\p05_Book_Library.dll
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p05_Book_Library\bin\Debug\netcoreapp2.0\p05_Book_Library.pdb
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p05_Book_Library\obj\Debug\netcoreapp2.0\p05_Book_Library.csprojResolveAssemblyReference.cache
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p05_Book_Library\obj\Debug\netcoreapp2.0\p05_Book_Library.csproj.CoreCompileInputs.cache
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p05_Book_Library\obj\Debug\netcoreapp2.0\p05_Book_Library.AssemblyInfoInputs.cache
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p05_Book_Library\obj\Debug\netcoreapp2.0\p05_Book_Library.AssemblyInfo.cs
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p05_Book_Library\obj\Debug\netcoreapp2.0\p05_Book_Library.dll
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p05_Book_Library\obj\Debug\netcoreapp2.0\p05_Book_Library.pdb

@@ -1,0 +1,11 @@
+C:\Users\rosi_\Desktop\SoftUni_Tech_2018\Dictionaries, Lambda and LINQ - Exercises\p05_HAnds_Of_Cards\bin\Debug\netcoreapp2.0\p05_HAnds_Of_Cards.deps.json
+C:\Users\rosi_\Desktop\SoftUni_Tech_2018\Dictionaries, Lambda and LINQ - Exercises\p05_HAnds_Of_Cards\bin\Debug\netcoreapp2.0\p05_HAnds_Of_Cards.runtimeconfig.json
+C:\Users\rosi_\Desktop\SoftUni_Tech_2018\Dictionaries, Lambda and LINQ - Exercises\p05_HAnds_Of_Cards\bin\Debug\netcoreapp2.0\p05_HAnds_Of_Cards.runtimeconfig.dev.json
+C:\Users\rosi_\Desktop\SoftUni_Tech_2018\Dictionaries, Lambda and LINQ - Exercises\p05_HAnds_Of_Cards\bin\Debug\netcoreapp2.0\p05_HAnds_Of_Cards.dll
+C:\Users\rosi_\Desktop\SoftUni_Tech_2018\Dictionaries, Lambda and LINQ - Exercises\p05_HAnds_Of_Cards\bin\Debug\netcoreapp2.0\p05_HAnds_Of_Cards.pdb
+C:\Users\rosi_\Desktop\SoftUni_Tech_2018\Dictionaries, Lambda and LINQ - Exercises\p05_HAnds_Of_Cards\obj\Debug\netcoreapp2.0\p05_HAnds_Of_Cards.csprojResolveAssemblyReference.cache
+C:\Users\rosi_\Desktop\SoftUni_Tech_2018\Dictionaries, Lambda and LINQ - Exercises\p05_HAnds_Of_Cards\obj\Debug\netcoreapp2.0\p05_HAnds_Of_Cards.csproj.CoreCompileInputs.cache
+C:\Users\rosi_\Desktop\SoftUni_Tech_2018\Dictionaries, Lambda and LINQ - Exercises\p05_HAnds_Of_Cards\obj\Debug\netcoreapp2.0\p05_HAnds_Of_Cards.AssemblyInfoInputs.cache
+C:\Users\rosi_\Desktop\SoftUni_Tech_2018\Dictionaries, Lambda and LINQ - Exercises\p05_HAnds_Of_Cards\obj\Debug\netcoreapp2.0\p05_HAnds_Of_Cards.AssemblyInfo.cs
+C:\Users\rosi_\Desktop\SoftUni_Tech_2018\Dictionaries, Lambda and LINQ - Exercises\p05_HAnds_Of_Cards\obj\Debug\netcoreapp2.0\p05_HAnds_Of_Cards.dll
+C:\Users\rosi_\Desktop\SoftUni_Tech_2018\Dictionaries, Lambda and LINQ - Exercises\p05_HAnds_Of_Cards\obj\Debug\netcoreapp2.0\p05_HAnds_Of_Cards.pdb

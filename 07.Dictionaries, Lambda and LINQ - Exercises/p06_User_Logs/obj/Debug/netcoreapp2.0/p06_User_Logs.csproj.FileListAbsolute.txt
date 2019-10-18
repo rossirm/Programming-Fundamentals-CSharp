@@ -1,0 +1,11 @@
+C:\Users\rosi_\Desktop\SoftUni_Tech_2018\Dictionaries, Lambda and LINQ - Exercises\p06_User_Logs\obj\Debug\netcoreapp2.0\p06_User_Logs.csproj.CoreCompileInputs.cache
+C:\Users\rosi_\Desktop\SoftUni_Tech_2018\Dictionaries, Lambda and LINQ - Exercises\p06_User_Logs\obj\Debug\netcoreapp2.0\p06_User_Logs.AssemblyInfoInputs.cache
+C:\Users\rosi_\Desktop\SoftUni_Tech_2018\Dictionaries, Lambda and LINQ - Exercises\p06_User_Logs\obj\Debug\netcoreapp2.0\p06_User_Logs.AssemblyInfo.cs
+C:\Users\rosi_\Desktop\SoftUni_Tech_2018\Dictionaries, Lambda and LINQ - Exercises\p06_User_Logs\obj\Debug\netcoreapp2.0\p06_User_Logs.csprojResolveAssemblyReference.cache
+C:\Users\rosi_\Desktop\SoftUni_Tech_2018\Dictionaries, Lambda and LINQ - Exercises\p06_User_Logs\bin\Debug\netcoreapp2.0\p06_User_Logs.deps.json
+C:\Users\rosi_\Desktop\SoftUni_Tech_2018\Dictionaries, Lambda and LINQ - Exercises\p06_User_Logs\bin\Debug\netcoreapp2.0\p06_User_Logs.runtimeconfig.json
+C:\Users\rosi_\Desktop\SoftUni_Tech_2018\Dictionaries, Lambda and LINQ - Exercises\p06_User_Logs\bin\Debug\netcoreapp2.0\p06_User_Logs.runtimeconfig.dev.json
+C:\Users\rosi_\Desktop\SoftUni_Tech_2018\Dictionaries, Lambda and LINQ - Exercises\p06_User_Logs\bin\Debug\netcoreapp2.0\p06_User_Logs.dll
+C:\Users\rosi_\Desktop\SoftUni_Tech_2018\Dictionaries, Lambda and LINQ - Exercises\p06_User_Logs\bin\Debug\netcoreapp2.0\p06_User_Logs.pdb
+C:\Users\rosi_\Desktop\SoftUni_Tech_2018\Dictionaries, Lambda and LINQ - Exercises\p06_User_Logs\obj\Debug\netcoreapp2.0\p06_User_Logs.dll
+C:\Users\rosi_\Desktop\SoftUni_Tech_2018\Dictionaries, Lambda and LINQ - Exercises\p06_User_Logs\obj\Debug\netcoreapp2.0\p06_User_Logs.pdb

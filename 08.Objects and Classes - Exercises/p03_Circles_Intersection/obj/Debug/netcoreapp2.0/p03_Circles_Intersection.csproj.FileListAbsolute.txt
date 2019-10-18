@@ -1,0 +1,11 @@
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p03_Circles_Intersection\bin\Debug\netcoreapp2.0\p03_Circles_Intersection.deps.json
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p03_Circles_Intersection\bin\Debug\netcoreapp2.0\p03_Circles_Intersection.runtimeconfig.json
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p03_Circles_Intersection\bin\Debug\netcoreapp2.0\p03_Circles_Intersection.runtimeconfig.dev.json
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p03_Circles_Intersection\bin\Debug\netcoreapp2.0\p03_Circles_Intersection.dll
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p03_Circles_Intersection\bin\Debug\netcoreapp2.0\p03_Circles_Intersection.pdb
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p03_Circles_Intersection\obj\Debug\netcoreapp2.0\p03_Circles_Intersection.csprojResolveAssemblyReference.cache
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p03_Circles_Intersection\obj\Debug\netcoreapp2.0\p03_Circles_Intersection.csproj.CoreCompileInputs.cache
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p03_Circles_Intersection\obj\Debug\netcoreapp2.0\p03_Circles_Intersection.AssemblyInfoInputs.cache
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p03_Circles_Intersection\obj\Debug\netcoreapp2.0\p03_Circles_Intersection.AssemblyInfo.cs
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p03_Circles_Intersection\obj\Debug\netcoreapp2.0\p03_Circles_Intersection.dll
+C:\Users\rosi_\source\repos\08.Objects and Classes - Exercises\p03_Circles_Intersection\obj\Debug\netcoreapp2.0\p03_Circles_Intersection.pdb
